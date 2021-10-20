@@ -1,4 +1,5 @@
-package com.trials.sample_mvn_framework_v1;
+package application;
+
 
 /**
  * Hello world!
